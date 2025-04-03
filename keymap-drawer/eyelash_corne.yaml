@@ -32,14 +32,14 @@ layers:
   - '&td0'
   - Z
   - X
-  - C
-  - V
+  - {t: C, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: V, h: '$$mdi:apple-keyboard-shift$$'}
   - B
   - $$mdi:keyboard-space$$
   - $$mdi:arrow-down-bold$$
   - N
-  - M
-  - {t: ',', s: <}
+  - {t: M, h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: ',', h: '$$mdi:apple-keyboard-control$$', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - $$mdi:keyboard-esc$$
